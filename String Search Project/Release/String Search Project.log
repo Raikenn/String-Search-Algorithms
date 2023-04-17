@@ -1,0 +1,15 @@
+﻿  boyermoore.cpp
+C:\Users\kiera\source\repos\String Search Project\boyermoore.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  GenerateItem.cpp
+C:\Users\kiera\source\repos\String Search Project\GenerateItem.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kiera\source\repos\String Search Project\GenerateItem.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+  RabinKarp.cpp
+C:\Users\kiera\source\repos\String Search Project\RabinKarp.cpp(8,23): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\kiera\source\repos\String Search Project\Source.cpp(40,5): warning C4551: function call missing argument list
+C:\Users\kiera\source\repos\String Search Project\Source.cpp(54,5): warning C4551: function call missing argument list
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 214 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  String Search Project.vcxproj -> C:\Users\kiera\source\repos\String Search Project\Release\String Search Project.exe

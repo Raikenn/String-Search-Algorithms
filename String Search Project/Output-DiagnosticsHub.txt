@@ -1,0 +1,8 @@
+﻿Profiling of 'String Search Project' started.
+Profiling of 'String Search Project' stopped.
+Symbols failed to load for ntdll.dll. Cannot find or open the PDB file.
+Symbols failed to load for ntdll.dll. Cannot find or open the PDB file.
+Symbols loaded for String Search Project.exe from C:\Users\kiera\source\repos\String Search Project\Release\String Search Project.pdb
+Symbols failed to load for msvcp140.dll. Cannot find or open the PDB file.
+Symbols failed to load for wow64cpu.dll. Cannot find or open the PDB file.
+Symbols failed to load for vcruntime140.dll. Cannot find or open the PDB file.

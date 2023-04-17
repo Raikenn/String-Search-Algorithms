@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\kiera\source\repos\String Search Project\Source.cpp(43,5): warning C4551: function call missing argument list
+C:\Users\kiera\source\repos\String Search Project\Source.cpp(57,5): warning C4551: function call missing argument list
+  boyermoore.cpp
+C:\Users\kiera\source\repos\String Search Project\boyermoore.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  String Search Project.vcxproj -> C:\Users\kiera\source\repos\String Search Project\Debug\String Search Project.exe
